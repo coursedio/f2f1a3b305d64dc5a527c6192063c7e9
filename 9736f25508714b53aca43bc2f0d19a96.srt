@@ -1,0 +1,273 @@
+WEBVTT
+
+1
+00:00:00.003 --> 00:00:03.008
+- In 2022, we have seen a rise
+
+2
+00:00:03.008 --> 00:00:06.003
+in commercial image generation services.
+
+3
+00:00:06.003 --> 00:00:09.009
+The technology behind these services is broadly referred
+
+4
+00:00:09.009 --> 00:00:12.007
+as text to image.
+
+5
+00:00:12.007 --> 00:00:15.005
+You simply type words on a screen
+
+6
+00:00:15.005 --> 00:00:18.006
+and watch the algorithms create an image
+
+7
+00:00:18.006 --> 00:00:20.002
+based on your queue,
+
+8
+00:00:20.002 --> 00:00:23.005
+even if you description is not very specific.
+
+9
+00:00:23.005 --> 00:00:27.006
+There are three main text to image generation services.
+
+10
+00:00:27.006 --> 00:00:31.005
+Midjourney, DALL-E, and Stable Diffusion.
+
+11
+00:00:31.005 --> 00:00:35.002
+If we were to compare these three text to image tools
+
+12
+00:00:35.002 --> 00:00:40.004
+to operating systems, Midjourney would be macOS
+
+13
+00:00:40.004 --> 00:00:42.004
+because they have a closed API
+
+14
+00:00:42.004 --> 00:00:45.002
+and a very design and art-centric approach
+
+15
+00:00:45.002 --> 00:00:47.008
+to the image generation process.
+
+16
+00:00:47.008 --> 00:00:51.006
+DALL-E would be Windows but with an open API
+
+17
+00:00:51.006 --> 00:00:54.006
+because the model is released by a corporation
+
+18
+00:00:54.006 --> 00:00:56.007
+and it initially had the most superior
+
+19
+00:00:56.007 --> 00:00:58.007
+machine-learning algorithm.
+
+20
+00:00:58.007 --> 00:01:01.001
+Open AI values technical superiority
+
+21
+00:01:01.001 --> 00:01:04.004
+over design and art sensitivities.
+
+22
+00:01:04.004 --> 00:01:07.007
+And the third, the Stable Diffusion would be Linux
+
+23
+00:01:07.007 --> 00:01:09.005
+because it is open source
+
+24
+00:01:09.005 --> 00:01:10.008
+and is improving each day
+
+25
+00:01:10.008 --> 00:01:14.004
+with the contribution of the generative AI community.
+
+26
+00:01:14.004 --> 00:01:16.002
+The quality of the generated images
+
+27
+00:01:16.002 --> 00:01:19.002
+from text to image models can depend
+
+28
+00:01:19.002 --> 00:01:21.003
+both on the quality of the algorithm
+
+29
+00:01:21.003 --> 00:01:24.003
+and the datasets they use to train it.
+
+30
+00:01:24.003 --> 00:01:27.004
+So now that we know the main services,
+
+31
+00:01:27.004 --> 00:01:30.005
+let's look at three industrial applications.
+
+32
+00:01:30.005 --> 00:01:32.000
+First is Cuebric.
+
+33
+00:01:32.000 --> 00:01:35.002
+Hollywood's first generative AI tool created
+
+34
+00:01:35.002 --> 00:01:37.003
+by our company, Seyhan Lee,
+
+35
+00:01:37.003 --> 00:01:40.008
+for streaming the production of film backgrounds.
+
+36
+00:01:40.008 --> 00:01:43.000
+A normal virtual production workflow
+
+37
+00:01:43.000 --> 00:01:45.005
+uses three dimensional world building
+
+38
+00:01:45.005 --> 00:01:48.002
+which involves a bunch of people building 3D worlds
+
+39
+00:01:48.002 --> 00:01:51.001
+that are custom made for that film.
+
+40
+00:01:51.001 --> 00:01:52.009
+It's time consuming, expensive,
+
+41
+00:01:52.009 --> 00:01:55.005
+and requires a lot of repetitive tasks.
+
+42
+00:01:55.005 --> 00:02:02.002
+An alternative now is to augment 2D backgrounds into 2.5D
+
+43
+00:02:02.002 --> 00:02:06.007
+by involving generative AI in the picture creation process.
+
+44
+00:02:06.007 --> 00:02:10.000
+The second example would be Stitch Fix.
+
+45
+00:02:10.000 --> 00:02:12.000
+When they suggest garments
+
+46
+00:02:12.000 --> 00:02:15.000
+to discover their customer's fashion style,
+
+47
+00:02:15.000 --> 00:02:16.009
+they use real clothes
+
+48
+00:02:16.009 --> 00:02:20.001
+along with clothes generated with DALL-E.
+
+49
+00:02:20.001 --> 00:02:22.009
+And finally, marketers and filmmakers
+
+50
+00:02:22.009 --> 00:02:24.007
+use text to image models
+
+51
+00:02:24.007 --> 00:02:27.004
+when ideating for a concept in a film.
+
+52
+00:02:27.004 --> 00:02:30.009
+And actually, they may later on continue to use it
+
+53
+00:02:30.009 --> 00:02:32.004
+to make storyboards
+
+54
+00:02:32.004 --> 00:02:33.009
+and even use it in the production
+
+55
+00:02:33.009 --> 00:02:36.001
+of the final art of their campaigns and films.
+
+56
+00:02:36.001 --> 00:02:38.003
+Just like we have seen in Cuebric.
+
+57
+00:02:38.003 --> 00:02:42.000
+A recent example from the marketing world would be Martini
+
+58
+00:02:42.000 --> 00:02:43.009
+that used the Midjourney generated image
+
+59
+00:02:43.009 --> 00:02:45.004
+in their campaign.
+
+60
+00:02:45.004 --> 00:02:48.004
+Another one would be Heinz and Nestle
+
+61
+00:02:48.004 --> 00:02:50.004
+that used DALL-E in their campaign.
+
+62
+00:02:50.004 --> 00:02:52.008
+And GoFundMe that used Stable Diffusion
+
+63
+00:02:52.008 --> 00:02:55.004
+in their artfully illustrated film.
+
+64
+00:02:55.004 --> 00:02:57.003
+Marketers prefer using generative AI
+
+65
+00:02:57.003 --> 00:03:00.005
+in their creative process for two reasons.
+
+66
+00:03:00.005 --> 00:03:03.006
+First, for its time and cost-saving efficiency,
+
+67
+00:03:03.006 --> 00:03:06.008
+and the second, for the unique look and feel
+
+68
+00:03:06.008 --> 00:03:09.002
+that you get from text to image based tools.
