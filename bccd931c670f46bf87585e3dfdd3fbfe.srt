@@ -1,0 +1,177 @@
+WEBVTT
+
+1
+00:00:00.004 --> 00:00:03.002
+- Let's now move to talking about an application
+
+2
+00:00:03.002 --> 00:00:06.005
+of generative AI that may not be as obvious
+
+3
+00:00:06.005 --> 00:00:08.004
+as it's used in generating images,
+
+4
+00:00:08.004 --> 00:00:11.009
+like we have seen earlier, audio or text.
+
+5
+00:00:11.009 --> 00:00:15.001
+But it's still very important application nonetheless,
+
+6
+00:00:15.001 --> 00:00:18.009
+and it is going to be the anomaly detection.
+
+7
+00:00:18.009 --> 00:00:21.000
+One of the main models that we use
+
+8
+00:00:21.000 --> 00:00:24.006
+in this space is Variational Autoencoders,
+
+9
+00:00:24.006 --> 00:00:26.005
+referred as VAE.
+
+10
+00:00:26.005 --> 00:00:29.009
+These models can be used for anomaly detection
+
+11
+00:00:29.009 --> 00:00:33.009
+by training the model on a dataset of normal data,
+
+12
+00:00:33.009 --> 00:00:37.009
+and then using the trained model to identify instances
+
+13
+00:00:37.009 --> 00:00:40.007
+that deviate from the normal data.
+
+14
+00:00:40.007 --> 00:00:42.009
+This can be used to detect anomalies
+
+15
+00:00:42.009 --> 00:00:46.004
+in a wide range of situations, like finding fraud
+
+16
+00:00:46.004 --> 00:00:50.005
+in financial transactions, spotting flaws in manufacturing
+
+17
+00:00:50.005 --> 00:00:53.004
+or finding security breaches in a network.
+
+18
+00:00:53.004 --> 00:00:57.002
+For example, Uber has used VAE for anomaly detection
+
+19
+00:00:57.002 --> 00:01:00.003
+in their financial transactions to detect fraud.
+
+20
+00:01:00.003 --> 00:01:03.005
+Another example would be Google has also used VAE
+
+21
+00:01:03.005 --> 00:01:07.005
+to detect network intrusions using anomaly detection
+
+22
+00:01:07.005 --> 00:01:11.001
+and another one of a real world application of VAE
+
+23
+00:01:11.001 --> 00:01:15.001
+would be anomaly detection in industrial quality control.
+
+24
+00:01:15.001 --> 00:01:17.008
+In this scenario, a VAE can be trained
+
+25
+00:01:17.008 --> 00:01:21.008
+on a dataset of images of normal products
+
+26
+00:01:21.008 --> 00:01:24.006
+and then used to identify images of products
+
+27
+00:01:24.006 --> 00:01:27.006
+that deviate from the normal data.
+
+28
+00:01:27.006 --> 00:01:30.005
+In this way, it can be used to detect defects
+
+29
+00:01:30.005 --> 00:01:34.009
+in products such as scratches, dents, or misalignments.
+
+30
+00:01:34.009 --> 00:01:37.008
+Another real world example would be healthcare
+
+31
+00:01:37.008 --> 00:01:40.008
+where VAE is used to detect anomalies
+
+32
+00:01:40.008 --> 00:01:44.006
+in medical imaging such as CT scans and MRI,
+
+33
+00:01:44.006 --> 00:01:48.000
+like Children's National Hospital in Washington, DC
+
+34
+00:01:48.000 --> 00:01:49.009
+uses a generative AI model
+
+35
+00:01:49.009 --> 00:01:52.005
+to analyze electronic health records.
+
+36
+00:01:52.005 --> 00:01:56.007
+The model uses data such as vital signs, laboratory results
+
+37
+00:01:56.007 --> 00:02:00.002
+and demographic information to predict which patients
+
+38
+00:02:00.002 --> 00:02:02.001
+are at risk of sepsis,
+
+39
+00:02:02.001 --> 00:02:05.003
+allowing healthcare providers to intervene early
+
+40
+00:02:05.003 --> 00:02:07.008
+and improve patient outcomes.
+
+41
+00:02:07.008 --> 00:02:10.009
+Variational Autoencoders are a flexible,
+
+42
+00:02:10.009 --> 00:02:15.005
+generative model that are not only able to detect anomalies
+
+43
+00:02:15.005 --> 00:02:18.003
+but are also a part of the architecture
+
+44
+00:02:18.003 --> 00:02:21.002
+of several other generative AI models.
