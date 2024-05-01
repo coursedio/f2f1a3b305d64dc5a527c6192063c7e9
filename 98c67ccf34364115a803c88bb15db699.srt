@@ -1,0 +1,229 @@
+WEBVTT
+
+1
+00:00:00.005 --> 00:00:03.005
+- Any executive or business leader
+
+2
+00:00:03.005 --> 00:00:07.007
+should approach generative AI tools with caution.
+
+3
+00:00:07.007 --> 00:00:10.004
+We should at all times self-monitor
+
+4
+00:00:10.004 --> 00:00:13.008
+and self-question if the generated results
+
+5
+00:00:13.008 --> 00:00:17.008
+fits our quality and satisfaction parameters.
+
+6
+00:00:17.008 --> 00:00:21.000
+Just because ChatGPT generates headlines,
+
+7
+00:00:21.000 --> 00:00:23.007
+it doesn't mean that what it makes is great.
+
+8
+00:00:23.007 --> 00:00:26.000
+Or just because we can generate a landscape
+
+9
+00:00:26.000 --> 00:00:27.007
+with Stable Diffusion,
+
+10
+00:00:27.007 --> 00:00:30.009
+it doesn't mean it's ready for the final pixel of a movie.
+
+11
+00:00:30.009 --> 00:00:33.000
+During this grace period
+
+12
+00:00:33.000 --> 00:00:36.005
+where we learn to co-create with algorithms,
+
+13
+00:00:36.005 --> 00:00:41.008
+it's crucial that we deepen our executive skills.
+
+14
+00:00:41.008 --> 00:00:44.008
+If we are a founder or an executive
+
+15
+00:00:44.008 --> 00:00:47.000
+in a generative AI company,
+
+16
+00:00:47.000 --> 00:00:49.000
+we shall, at all times,
+
+17
+00:00:49.000 --> 00:00:54.007
+always ask ourselves who is benefiting from our tools?
+
+18
+00:00:54.007 --> 00:00:59.007
+Our moral compass should always direct towards transparency,
+
+19
+00:00:59.007 --> 00:01:03.006
+fairness, empathy, and responsibility.
+
+20
+00:01:03.006 --> 00:01:08.002
+I highly recommend organizing a board or a council
+
+21
+00:01:08.002 --> 00:01:12.006
+at your organization that acts like the ethical foundation
+
+22
+00:01:12.006 --> 00:01:15.006
+for the integration of generative ai.
+
+23
+00:01:15.006 --> 00:01:19.002
+Provide, please, all your employees with ethical guidance
+
+24
+00:01:19.002 --> 00:01:24.000
+and education on how to use generative AI effectively,
+
+25
+00:01:24.000 --> 00:01:28.009
+and also how to overcome their fears, challenges, and biases
+
+26
+00:01:28.009 --> 00:01:31.003
+towards this new advanced tool.
+
+27
+00:01:31.003 --> 00:01:33.008
+As the technology continues to evolve,
+
+28
+00:01:33.008 --> 00:01:36.000
+it's very likely that the distinction
+
+29
+00:01:36.000 --> 00:01:39.004
+between human and algorithm-generated content
+
+30
+00:01:39.004 --> 00:01:41.008
+will become increasingly blurred,
+
+31
+00:01:41.008 --> 00:01:44.003
+and it will become even more important
+
+32
+00:01:44.003 --> 00:01:47.008
+for leaders like you to have a clear understanding
+
+33
+00:01:47.008 --> 00:01:50.007
+of the role of each.
+
+34
+00:01:50.007 --> 00:01:54.005
+We will remain in control of AI by always positioning
+
+35
+00:01:54.005 --> 00:01:57.006
+the human consciousness in the very center
+
+36
+00:01:57.006 --> 00:02:01.002
+of generative AI companies and solutions.
+
+37
+00:02:01.002 --> 00:02:04.003
+Especially in our organizations,
+
+38
+00:02:04.003 --> 00:02:09.009
+we must ensure that humans remain the sole decision makers.
+
+39
+00:02:09.009 --> 00:02:15.002
+In this way, we will be setting the objectives
+
+40
+00:02:15.002 --> 00:02:19.004
+and determine the direction of AI-generated content.
+
+41
+00:02:19.004 --> 00:02:22.007
+By keeping humans at the very center,
+
+42
+00:02:22.007 --> 00:02:24.007
+we can ensure that the content produced
+
+43
+00:02:24.007 --> 00:02:29.004
+by generative AI aligns with your company values and goals,
+
+44
+00:02:29.004 --> 00:02:33.000
+which have to do with serving the elation
+
+45
+00:02:33.000 --> 00:02:35.007
+and elevation of humanity.
+
+46
+00:02:35.007 --> 00:02:39.004
+By actively engaging with generative AI technology
+
+47
+00:02:39.004 --> 00:02:43.001
+and developing a deep understanding of its capabilities
+
+48
+00:02:43.001 --> 00:02:46.004
+and limitations all across your team,
+
+49
+00:02:46.004 --> 00:02:49.001
+we can avoid the potential risks
+
+50
+00:02:49.001 --> 00:02:52.005
+associated with blindly relying on AI
+
+51
+00:02:52.005 --> 00:02:54.009
+to make decisions for us.
+
+52
+00:02:54.009 --> 00:02:59.007
+Well, ultimately, the goal is to strike a beautiful balance
+
+53
+00:02:59.007 --> 00:03:02.008
+between leveraging the power of generative AI
+
+54
+00:03:02.008 --> 00:03:06.003
+to enhance human creativity and imagination,
+
+55
+00:03:06.003 --> 00:03:08.006
+and optimizing production,
+
+56
+00:03:08.006 --> 00:03:13.002
+while also maintaining human control and oversight
+
+57
+00:03:13.002 --> 00:03:15.001
+over this advanced technology.
