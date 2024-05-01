@@ -1,0 +1,177 @@
+WEBVTT
+
+1
+00:00:00.005 --> 00:00:03.009
+- So now that we have our generative AI model
+
+2
+00:00:03.009 --> 00:00:05.006
+and our chassis,
+
+3
+00:00:05.006 --> 00:00:08.006
+we are ready to create our own content.
+
+4
+00:00:08.006 --> 00:00:10.002
+If we're a beginner,
+
+5
+00:00:10.002 --> 00:00:13.009
+we can use a paid service like Midjourney or Lensa.
+
+6
+00:00:13.009 --> 00:00:15.008
+If we are more experienced,
+
+7
+00:00:15.008 --> 00:00:20.000
+we can use a notebook and pick from available models.
+
+8
+00:00:20.000 --> 00:00:21.008
+If you download a commercial app
+
+9
+00:00:21.008 --> 00:00:25.002
+and upload only 10 pictures of yourself, like I did,
+
+10
+00:00:25.002 --> 00:00:28.007
+the app suggests a variety of different avatars of yourself.
+
+11
+00:00:28.007 --> 00:00:30.007
+It's super fun.
+
+12
+00:00:30.007 --> 00:00:33.004
+If you are a more experienced generative AI user,
+
+13
+00:00:33.004 --> 00:00:36.006
+a creative technologist, you can go to GitHub,
+
+14
+00:00:36.006 --> 00:00:38.009
+choose your favorite generative AI model,
+
+15
+00:00:38.009 --> 00:00:42.000
+and see if it is available in the form of a notebook.
+
+16
+00:00:42.000 --> 00:00:45.000
+If it's not available, you can still inquire about it
+
+17
+00:00:45.000 --> 00:00:46.004
+inside the generative AI community.
+
+18
+00:00:46.004 --> 00:00:48.007
+They're super friendly people.
+
+19
+00:00:48.007 --> 00:00:50.005
+And if you are a programmer,
+
+20
+00:00:50.005 --> 00:00:52.002
+you can also create your own notebook
+
+21
+00:00:52.002 --> 00:00:54.008
+by taking the model code from GitHub.
+
+22
+00:00:54.008 --> 00:00:56.001
+For a demonstration,
+
+23
+00:00:56.001 --> 00:00:59.007
+we will be running a Google Colab notebook named Deforum,
+
+24
+00:00:59.007 --> 00:01:01.009
+that is based on stable diffusion,
+
+25
+00:01:01.009 --> 00:01:04.003
+to generate a fantasy landscape.
+
+26
+00:01:04.003 --> 00:01:08.000
+As you can see here, the notebook runs through the code,
+
+27
+00:01:08.000 --> 00:01:09.009
+and depending on your settings,
+
+28
+00:01:09.009 --> 00:01:12.008
+produces a personalized outcome.
+
+29
+00:01:12.008 --> 00:01:15.000
+Google Colab requires a subscription.
+
+30
+00:01:15.000 --> 00:01:18.003
+If you would like your generation time to be minimized
+
+31
+00:01:18.003 --> 00:01:21.002
+you need to buy a paid subscription.
+
+32
+00:01:21.002 --> 00:01:24.008
+These notebooks offer a lot of personalized options
+
+33
+00:01:24.008 --> 00:01:27.000
+for the quality of your outcomes.
+
+34
+00:01:27.000 --> 00:01:29.007
+You can always choose the default generation,
+
+35
+00:01:29.007 --> 00:01:32.000
+but the beauty of working with a notebook
+
+36
+00:01:32.000 --> 00:01:36.004
+is that you can tweak and personalize the outcomes.
+
+37
+00:01:36.004 --> 00:01:41.000
+In summary, a model is a set of algorithms
+
+38
+00:01:41.000 --> 00:01:44.005
+that have been trained on a specific dataset.
+
+39
+00:01:44.005 --> 00:01:49.001
+A notebook is a tool for writing and running the code.
+
+40
+00:01:49.001 --> 00:01:51.006
+A creative application is an example
+
+41
+00:01:51.006 --> 00:01:54.000
+of how a model can be used,
+
+42
+00:01:54.000 --> 00:01:58.001
+and the generated outcome is what the end user produces
+
+43
+00:01:58.001 --> 00:02:00.005
+by using a generative AI service
+
+44
+00:02:00.005 --> 00:02:04.001
+or a notebook that houses the model inside it.
