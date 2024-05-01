@@ -1,0 +1,157 @@
+WEBVTT
+
+1
+00:00:00.006 --> 00:00:04.001
+- Generative AI is a type of AI that,
+
+2
+00:00:04.001 --> 00:00:07.005
+as this name suggests, generates new content.
+
+3
+00:00:07.005 --> 00:00:09.003
+This is in contrast to other types
+
+4
+00:00:09.003 --> 00:00:14.002
+of AI, like discriminative AI, which focuses on classifying
+
+5
+00:00:14.002 --> 00:00:19.002
+or identifying content that is based on preexisting data.
+
+6
+00:00:19.002 --> 00:00:21.000
+Generative AI is often used
+
+7
+00:00:21.000 --> 00:00:23.006
+in applications such as image generation,
+
+8
+00:00:23.006 --> 00:00:28.005
+video synthesis, language generation, and music composition,
+
+9
+00:00:28.005 --> 00:00:32.001
+but to really understand this new tool,
+
+10
+00:00:32.001 --> 00:00:34.005
+we need to know first where it fits
+
+11
+00:00:34.005 --> 00:00:37.008
+in the broader AI landscape.
+
+12
+00:00:37.008 --> 00:00:41.007
+The term AI, which is artificial intelligence,
+
+13
+00:00:41.007 --> 00:00:43.005
+is an umbrella term
+
+14
+00:00:43.005 --> 00:00:46.009
+that encompasses several different subcategories,
+
+15
+00:00:46.009 --> 00:00:49.002
+including generative AI.
+
+16
+00:00:49.002 --> 00:00:53.006
+These subcategories are used to perform different tasks.
+
+17
+00:00:53.006 --> 00:00:56.009
+For example, reactive machines are used
+
+18
+00:00:56.009 --> 00:00:59.002
+in self-driving cars.
+
+19
+00:00:59.002 --> 00:01:02.009
+Limited memory AI forecasts the weather.
+
+20
+00:01:02.009 --> 00:01:07.006
+Theory of mind powers virtual customer assistance.
+
+21
+00:01:07.006 --> 00:01:11.002
+Narrow AI generates customized product suggestions
+
+22
+00:01:11.002 --> 00:01:13.002
+for E-commerce sites.
+
+23
+00:01:13.002 --> 00:01:16.002
+Supervised learning identifies objects
+
+24
+00:01:16.002 --> 00:01:19.005
+from things like images and video.
+
+25
+00:01:19.005 --> 00:01:21.009
+Unsupervised learning can detect
+
+26
+00:01:21.009 --> 00:01:26.000
+fraudulent bank transactions, and reinforcement learning
+
+27
+00:01:26.000 --> 00:01:29.001
+can teach a machine how to play a game.
+
+28
+00:01:29.001 --> 00:01:32.005
+These are only a few of the subcategories,
+
+29
+00:01:32.005 --> 00:01:36.002
+and generative AI models fall into a lot
+
+30
+00:01:36.002 --> 00:01:40.002
+of these categories, and honestly, it's only growing.
+
+31
+00:01:40.002 --> 00:01:44.005
+These other types of AI may still generate content,
+
+32
+00:01:44.005 --> 00:01:48.009
+but they do it as a side effect of their primary function.
+
+33
+00:01:48.009 --> 00:01:52.000
+Generative AI is specifically designed
+
+34
+00:01:52.000 --> 00:01:56.003
+to generate new content as its primary output.
+
+35
+00:01:56.003 --> 00:02:01.003
+Whether this is text, images, product suggestions, whatever,
+
+36
+00:02:01.003 --> 00:02:04.004
+that's what generative AI is designed to do.
+
+37
+00:02:04.004 --> 00:02:07.006
+So, now that we know where generative AI fits
+
+38
+00:02:07.006 --> 00:02:10.002
+in the broader landscape, together,
+
+39
+00:02:10.002 --> 00:02:12.000
+let's explore how it works.
