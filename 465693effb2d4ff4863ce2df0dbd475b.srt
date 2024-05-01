@@ -1,0 +1,241 @@
+WEBVTT
+
+1
+00:00:00.005 --> 00:00:03.003
+- The advent of generative AI can be likened
+
+2
+00:00:03.003 --> 00:00:06.006
+to the invention of photography and celluloid film,
+
+3
+00:00:06.006 --> 00:00:09.006
+a true creative revolution.
+
+4
+00:00:09.006 --> 00:00:12.005
+With photography, we no longer needed to rely
+
+5
+00:00:12.005 --> 00:00:16.005
+on the interpretation of an artist to capture reality,
+
+6
+00:00:16.005 --> 00:00:18.000
+and with generative AI,
+
+7
+00:00:18.000 --> 00:00:22.002
+we no longer need artistic talent to draw or to sing.
+
+8
+00:00:22.002 --> 00:00:24.004
+We can access now concise information
+
+9
+00:00:24.004 --> 00:00:27.000
+in just a manner of seconds.
+
+10
+00:00:27.000 --> 00:00:29.002
+We can also automatically generate text
+
+11
+00:00:29.002 --> 00:00:32.001
+such as news articles or product descriptions.
+
+12
+00:00:32.001 --> 00:00:36.006
+We can even design custom products like shoes or furniture.
+
+13
+00:00:36.006 --> 00:00:40.006
+We can produce music, speech, visual effects,
+
+14
+00:00:40.006 --> 00:00:44.005
+3D assets and sound effects using algorithms trained
+
+15
+00:00:44.005 --> 00:00:46.008
+on already existing data.
+
+16
+00:00:46.008 --> 00:00:50.005
+I know you're like, it all sounds magic, doesn't it?
+
+17
+00:00:50.005 --> 00:00:51.009
+Yeah, it does.
+
+18
+00:00:51.009 --> 00:00:54.005
+But like Arthur C. Clark said, any sufficiently
+
+19
+00:00:54.005 --> 00:00:59.001
+advanced technology is simply undistinguishable from magic.
+
+20
+00:00:59.001 --> 00:01:02.006
+These machines are becoming 24 hours, seven assistants
+
+21
+00:01:02.006 --> 00:01:06.007
+ready to perform a variety of tasks for us, resulting
+
+22
+00:01:06.007 --> 00:01:12.000
+in the manifestation of our vision almost in real time.
+
+23
+00:01:12.000 --> 00:01:15.008
+By training on large data sets, we can reduce the burden
+
+24
+00:01:15.008 --> 00:01:21.000
+of repetitive tasks and complex computations, enabling us to
+
+25
+00:01:21.000 --> 00:01:25.003
+focus on more creative and more strategic activities
+
+26
+00:01:25.003 --> 00:01:30.008
+which is the very essence of what work is really about.
+
+27
+00:01:30.008 --> 00:01:33.009
+The development of generative AI has a very rich
+
+28
+00:01:33.009 --> 00:01:36.003
+and very fascinating history marked
+
+29
+00:01:36.003 --> 00:01:39.003
+by significant breakthroughs, even though it
+
+30
+00:01:39.003 --> 00:01:43.005
+gained widespread attention in 2022, its evolution was built
+
+31
+00:01:43.005 --> 00:01:47.001
+on decades of mathematical research,
+
+32
+00:01:47.001 --> 00:01:51.003
+starting with auto encoder neural networks in 2006
+
+33
+00:01:51.003 --> 00:01:53.009
+and continuing on through the mass adoption
+
+34
+00:01:53.009 --> 00:01:59.008
+of generative AI models like DALL E, ChatGPT by Open ai,
+
+35
+00:01:59.008 --> 00:02:03.001
+Kubrick, Journey and others today.
+
+36
+00:02:03.001 --> 00:02:06.008
+Not only have the providers and services expanded
+
+37
+00:02:06.008 --> 00:02:10.002
+but the quality of what is being produced has
+
+38
+00:02:10.002 --> 00:02:12.009
+improved drastically as well.
+
+39
+00:02:12.009 --> 00:02:16.005
+Like you can see in this chart by our world in data
+
+40
+00:02:16.005 --> 00:02:18.006
+the exponential improvement in the quality
+
+41
+00:02:18.006 --> 00:02:23.007
+of images generated between 2014 and 2022.
+
+42
+00:02:23.007 --> 00:02:27.000
+While the pictures in 2014 are black and white
+
+43
+00:02:27.000 --> 00:02:30.001
+and extremely pixelated.
+
+44
+00:02:30.001 --> 00:02:32.000
+In 2022, we would simply
+
+45
+00:02:32.000 --> 00:02:36.009
+type any word on the screen and generate coherent outcomes.
+
+46
+00:02:36.009 --> 00:02:40.004
+Generative AI is not only changing almost
+
+47
+00:02:40.004 --> 00:02:43.005
+every single profession, but it is also changing
+
+48
+00:02:43.005 --> 00:02:47.000
+our understanding of what work is.
+
+49
+00:02:47.000 --> 00:02:50.008
+Large parts of the production process that are repetitive
+
+50
+00:02:50.008 --> 00:02:54.008
+or can be computational are now starting to be facilitated
+
+51
+00:02:54.008 --> 00:02:56.007
+by AI models.
+
+52
+00:02:56.007 --> 00:02:59.004
+All of this leads to the chance
+
+53
+00:02:59.004 --> 00:03:03.002
+we are given to discover the essence
+
+54
+00:03:03.002 --> 00:03:08.001
+of what it means to be a human and the true meaning of work.
+
+55
+00:03:08.001 --> 00:03:11.008
+A beautiful new existence awaits us where we focus
+
+56
+00:03:11.008 --> 00:03:16.007
+on what makes us unique as a species, our curiosity,
+
+57
+00:03:16.007 --> 00:03:19.001
+our conscious awareness, our dreams,
+
+58
+00:03:19.001 --> 00:03:23.002
+our emotional intelligence, and our vision
+
+59
+00:03:23.002 --> 00:03:27.009
+while the algorithms we have created assist us
+
+60
+00:03:27.009 --> 00:03:32.005
+in the production and the execution of our authentic vision.
