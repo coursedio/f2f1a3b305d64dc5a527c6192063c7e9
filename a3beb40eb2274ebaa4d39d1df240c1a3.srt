@@ -1,0 +1,269 @@
+WEBVTT
+
+1
+00:00:00.005 --> 00:00:02.001
+- Natural language generation
+
+2
+00:00:02.001 --> 00:00:05.004
+is perhaps the most well-known application
+
+3
+00:00:05.004 --> 00:00:09.009
+of generative AI so far with ChatGPT in the headlines.
+
+4
+00:00:09.009 --> 00:00:12.007
+Most of the hype around text-based generative AI
+
+5
+00:00:12.007 --> 00:00:15.000
+is using a model called GPT.
+
+6
+00:00:15.000 --> 00:00:20.001
+GPT stands for Generative Pre-trained Transformer.
+
+7
+00:00:20.001 --> 00:00:23.001
+It's a language model developed by OpenAI,
+
+8
+00:00:23.001 --> 00:00:25.008
+a research organization focused on developing
+
+9
+00:00:25.008 --> 00:00:27.008
+and promoting friendly AI.
+
+10
+00:00:27.008 --> 00:00:31.000
+The idea of pre-training a language model
+
+11
+00:00:31.000 --> 00:00:33.005
+and finding it on a task-specific dataset
+
+12
+00:00:33.005 --> 00:00:35.001
+isn't something new.
+
+13
+00:00:35.001 --> 00:00:37.007
+This concept has been around for decades
+
+14
+00:00:37.007 --> 00:00:41.004
+and has been used in several other models before GPT.
+
+15
+00:00:41.004 --> 00:00:46.003
+However, GPT has become notable for its large scale
+
+16
+00:00:46.003 --> 00:00:48.006
+use of transformer architecture
+
+17
+00:00:48.006 --> 00:00:52.007
+and its ability to generate human-like texts,
+
+18
+00:00:52.007 --> 00:00:55.009
+which had led to its widespread use
+
+19
+00:00:55.009 --> 00:00:59.008
+and popularity in the field of natural language processing.
+
+20
+00:00:59.008 --> 00:01:02.005
+Imagine you have a writing assistant
+
+21
+00:01:02.005 --> 00:01:06.009
+that can help you write emails, articles, even a novel.
+
+22
+00:01:06.009 --> 00:01:10.009
+GPT can take in a prompt, like a topic or a sentence,
+
+23
+00:01:10.009 --> 00:01:14.009
+and can generate text based on that prompt.
+
+24
+00:01:14.009 --> 00:01:16.009
+It can even continue a story
+
+25
+00:01:16.009 --> 00:01:19.008
+or a conversation you started earlier.
+
+26
+00:01:19.008 --> 00:01:22.002
+Here are a few industry applications.
+
+27
+00:01:22.002 --> 00:01:23.007
+Let's start with GitHub.
+
+28
+00:01:23.007 --> 00:01:27.001
+GitHub Copilot is a generative AI service
+
+29
+00:01:27.001 --> 00:01:29.006
+provided by GitHub to its users.
+
+30
+00:01:29.006 --> 00:01:33.009
+The service uses the OpenAI codex to suggest the code
+
+31
+00:01:33.009 --> 00:01:36.005
+and entire functions in real time,
+
+32
+00:01:36.005 --> 00:01:38.003
+right from the code editor.
+
+33
+00:01:38.003 --> 00:01:43.000
+It allows the users to search less for outside solutions
+
+34
+00:01:43.000 --> 00:01:45.001
+and it also helps them type less
+
+35
+00:01:45.001 --> 00:01:47.005
+with smarter code completion.
+
+36
+00:01:47.005 --> 00:01:51.000
+Another example would be Microsoft's Bing,
+
+37
+00:01:51.000 --> 00:01:55.002
+which implemented ChatGPT into its search functionality,
+
+38
+00:01:55.002 --> 00:01:58.001
+enabling it to reach concise information
+
+39
+00:01:58.001 --> 00:02:00.005
+in a shorter amount of time.
+
+40
+00:02:00.005 --> 00:02:03.008
+Since OpenAI made ChatGPT available to the public
+
+41
+00:02:03.008 --> 00:02:09.002
+on November 30th in 2022, it reached 1 million user
+
+42
+00:02:09.002 --> 00:02:13.005
+in less than a week, I said in less than a week.
+
+43
+00:02:13.005 --> 00:02:16.001
+Now, let's compare that to other companies
+
+44
+00:02:16.001 --> 00:02:18.006
+that hit 1 million users.
+
+45
+00:02:18.006 --> 00:02:23.006
+It took Netflix 49 months to reach 1 million users.
+
+46
+00:02:23.006 --> 00:02:28.003
+It took Twitter 24 months, it took Airbnb 30 months,
+
+47
+00:02:28.003 --> 00:02:30.001
+Facebook, 10 months,
+
+48
+00:02:30.001 --> 00:02:32.007
+and it took Instagram two-and-a half-months
+
+49
+00:02:32.007 --> 00:02:35.000
+to reach 1 million users.
+
+50
+00:02:35.000 --> 00:02:39.009
+Let's remember, it took ChatGPT only one week.
+
+51
+00:02:39.009 --> 00:02:42.001
+These figures demonstrate how easily humans
+
+52
+00:02:42.001 --> 00:02:44.006
+adopted their workflow for co-creating
+
+53
+00:02:44.006 --> 00:02:46.005
+with generative AI-based tools and services.
+
+54
+00:02:46.005 --> 00:02:48.004
+This is amazing.
+
+55
+00:02:48.004 --> 00:02:51.006
+However, GPT has several limitations,
+
+56
+00:02:51.006 --> 00:02:55.004
+such as the lack of common sense, creativity
+
+57
+00:02:55.004 --> 00:02:57.007
+and understanding the text it generates.
+
+58
+00:02:57.007 --> 00:03:02.001
+Also, bias data sets and the danger of normalization
+
+59
+00:03:02.001 --> 00:03:05.009
+of mediocrity when we come up with creative writing.
+
+60
+00:03:05.009 --> 00:03:07.004
+Natural language models
+
+61
+00:03:07.004 --> 00:03:09.009
+synthetically mimic human capabilities,
+
+62
+00:03:09.009 --> 00:03:14.007
+but, clearly, conscious contemplations are required
+
+63
+00:03:14.007 --> 00:03:17.006
+before developing generative AI tools.
+
+64
+00:03:17.006 --> 00:03:21.009
+ChatGPT is a wonderful tool for factual
+
+65
+00:03:21.009 --> 00:03:24.002
+and computable information.
+
+66
+00:03:24.002 --> 00:03:28.002
+However, I would advise us to approach it with caution
+
+67
+00:03:28.002 --> 00:03:32.001
+when inquiring about creative and opinion-based writing.
