@@ -1,0 +1,105 @@
+WEBVTT
+
+1
+00:00:00.007 --> 00:00:02.003
+- During this part of the course,
+
+2
+00:00:02.003 --> 00:00:05.004
+we will be getting more familiar with some
+
+3
+00:00:05.004 --> 00:00:08.009
+of the most well-known types of generative AI models,
+
+4
+00:00:08.009 --> 00:00:11.008
+and some of the applications they cover.
+
+5
+00:00:11.008 --> 00:00:13.006
+Think of generative AI models,
+
+6
+00:00:13.006 --> 00:00:16.006
+let's use the metaphor, food.
+
+7
+00:00:16.006 --> 00:00:18.001
+Under the term food,
+
+8
+00:00:18.001 --> 00:00:23.005
+you find salads, soups, caviar, stews, fresh vegetables,
+
+9
+00:00:23.005 --> 00:00:25.006
+and just like food,
+
+10
+00:00:25.006 --> 00:00:28.009
+under the umbrella term of generative AI,
+
+11
+00:00:28.009 --> 00:00:30.004
+you find several options
+
+12
+00:00:30.004 --> 00:00:33.006
+depending on what you are craving for.
+
+13
+00:00:33.006 --> 00:00:36.007
+So this isn't meant to be an exhaustive list
+
+14
+00:00:36.007 --> 00:00:40.009
+of all the applications and all the models,
+
+15
+00:00:40.009 --> 00:00:43.003
+but think of it more like a guide
+
+16
+00:00:43.003 --> 00:00:46.002
+to the generative AI landscape
+
+17
+00:00:46.002 --> 00:00:48.002
+and how you can make use of it.
+
+18
+00:00:48.002 --> 00:00:49.007
+But keep in mind
+
+19
+00:00:49.007 --> 00:00:53.000
+that this landscape is changing dramatically
+
+20
+00:00:53.000 --> 00:00:54.006
+every single day.
+
+21
+00:00:54.006 --> 00:00:56.001
+And there's a very good chance
+
+22
+00:00:56.001 --> 00:00:57.009
+that when you're watching this course,
+
+23
+00:00:57.009 --> 00:01:00.008
+there will be lots and lots of new players, models,
+
+24
+00:01:00.008 --> 00:01:03.005
+and applications already born.
+
+25
+00:01:03.005 --> 00:01:06.003
+But that's what makes it so exciting.
+
+26
+00:01:06.003 --> 00:01:09.006
+So let's start exploring some of the main models together.
