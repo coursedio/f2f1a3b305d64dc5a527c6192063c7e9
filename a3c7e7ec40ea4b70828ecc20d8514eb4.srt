@@ -1,0 +1,393 @@
+WEBVTT
+
+1
+00:00:00.004 --> 00:00:02.008
+- To understand how generative AI works,
+
+2
+00:00:02.008 --> 00:00:06.001
+we first have to understand how it comes to life.
+
+3
+00:00:06.001 --> 00:00:07.005
+I know how you're feeling.
+
+4
+00:00:07.005 --> 00:00:10.009
+You're looking at the news, and ChatGPT, and Midjourney,
+
+5
+00:00:10.009 --> 00:00:13.006
+all this generative, what is generative, what is AI?
+
+6
+00:00:13.006 --> 00:00:15.001
+It's so complicated.
+
+7
+00:00:15.001 --> 00:00:17.007
+You have no idea how to make sense of it all,
+
+8
+00:00:17.007 --> 00:00:19.002
+but you know you need to,
+
+9
+00:00:19.002 --> 00:00:22.000
+because this is where the world is evolving towards.
+
+10
+00:00:22.000 --> 00:00:24.007
+Okay, let's start with AI 101.
+
+11
+00:00:24.007 --> 00:00:27.004
+Imagine you and me were having dinner
+
+12
+00:00:27.004 --> 00:00:30.003
+and you asked me to pass you the salt.
+
+13
+00:00:30.003 --> 00:00:33.009
+I look at the table and I can make a discernment
+
+14
+00:00:33.009 --> 00:00:36.009
+between a salt shaker and the rest of the objects
+
+15
+00:00:36.009 --> 00:00:38.001
+on the table.
+
+16
+00:00:38.001 --> 00:00:39.002
+Why?
+
+17
+00:00:39.002 --> 00:00:42.001
+Because my mind has been trained with thousands,
+
+18
+00:00:42.001 --> 00:00:46.009
+or millions, or trillions of salt shakers earlier.
+
+19
+00:00:46.009 --> 00:00:48.002
+AI works the same.
+
+20
+00:00:48.002 --> 00:00:51.006
+You feed it with thousands, millions, trillions of content,
+
+21
+00:00:51.006 --> 00:00:53.008
+and then you teach a certain algorithm
+
+22
+00:00:53.008 --> 00:00:57.005
+to generate outputs and solutions as a result.
+
+23
+00:00:57.005 --> 00:01:01.002
+Okay, now that we got AI 101 out of the way,
+
+24
+00:01:01.002 --> 00:01:04.006
+let's get into generative AI 101.
+
+25
+00:01:04.006 --> 00:01:07.003
+Let's use cars as an example.
+
+26
+00:01:07.003 --> 00:01:11.002
+Just like a Porsche has a different engine than a Mazda,
+
+27
+00:01:11.002 --> 00:01:14.002
+under the umbrella term of generative AI,
+
+28
+00:01:14.002 --> 00:01:18.001
+there are a variety of different generative AI models.
+
+29
+00:01:18.001 --> 00:01:21.003
+These AI models, or car engines,
+
+30
+00:01:21.003 --> 00:01:23.007
+are written and manufactured by groups
+
+31
+00:01:23.007 --> 00:01:27.002
+of highly advanced computer vision specialists,
+
+32
+00:01:27.002 --> 00:01:30.004
+machine learning experts, and mathematicians.
+
+33
+00:01:30.004 --> 00:01:32.006
+They're built on years of open source
+
+34
+00:01:32.006 --> 00:01:35.002
+machine learning research and generally funded
+
+35
+00:01:35.002 --> 00:01:37.004
+by companies and universities.
+
+36
+00:01:37.004 --> 00:01:39.004
+Some of the big players in writing
+
+37
+00:01:39.004 --> 00:01:42.005
+these generative AI models, engines,
+
+38
+00:01:42.005 --> 00:01:46.001
+are Open AI, NVIDIA, Google, Meta,
+
+39
+00:01:46.001 --> 00:01:50.008
+and universities like UC Berkeley and LMU Munich.
+
+40
+00:01:50.008 --> 00:01:53.005
+They can either keep these models private,
+
+41
+00:01:53.005 --> 00:01:56.005
+or they can make them public, what we call this,
+
+42
+00:01:56.005 --> 00:02:00.008
+open source, for those to benefit from their research.
+
+43
+00:02:00.008 --> 00:02:04.001
+All right, now that these complex generative models
+
+44
+00:02:04.001 --> 00:02:07.006
+are written, meaning the engines are made,
+
+45
+00:02:07.006 --> 00:02:09.007
+what are we going to do with them?
+
+46
+00:02:09.007 --> 00:02:12.007
+Depending on your level of technical expertise,
+
+47
+00:02:12.007 --> 00:02:14.005
+this can look a bit different.
+
+48
+00:02:14.005 --> 00:02:16.004
+I'm going to paint a picture for you
+
+49
+00:02:16.004 --> 00:02:19.005
+with three different end users of these models.
+
+50
+00:02:19.005 --> 00:02:22.003
+The first person is a business leader
+
+51
+00:02:22.003 --> 00:02:24.005
+who comes up with a product idea
+
+52
+00:02:24.005 --> 00:02:28.006
+that involves a generative AI model, or several.
+
+53
+00:02:28.006 --> 00:02:30.008
+For the development of their tool,
+
+54
+00:02:30.008 --> 00:02:34.000
+this business leader either uses free open source
+
+55
+00:02:34.000 --> 00:02:37.009
+generative AI models or enters into a partnership
+
+56
+00:02:37.009 --> 00:02:40.006
+with a corporation to get rights
+
+57
+00:02:40.006 --> 00:02:42.006
+to their generative AI model,
+
+58
+00:02:42.006 --> 00:02:45.002
+then their team creates their vision.
+
+59
+00:02:45.002 --> 00:02:47.001
+To continue the chronology,
+
+60
+00:02:47.001 --> 00:02:50.004
+let's say this person owns the car factory.
+
+61
+00:02:50.004 --> 00:02:53.008
+They direct where the engine and chassis go,
+
+62
+00:02:53.008 --> 00:02:56.004
+but don't actually work on the floor.
+
+63
+00:02:56.004 --> 00:02:59.005
+The second person is a creative person
+
+64
+00:02:59.005 --> 00:03:02.001
+with an appetite for adventure.
+
+65
+00:03:02.001 --> 00:03:04.004
+They might have some technical knowledge,
+
+66
+00:03:04.004 --> 00:03:06.006
+but they aren't an AI engineer.
+
+67
+00:03:06.006 --> 00:03:08.009
+I mean, they can be if they want.
+
+68
+00:03:08.009 --> 00:03:12.003
+This person goes to a car engine showroom,
+
+69
+00:03:12.003 --> 00:03:16.004
+where they pick a pre-made car engine
+
+70
+00:03:16.004 --> 00:03:20.001
+or a generative AI model from a repository
+
+71
+00:03:20.001 --> 00:03:22.009
+like GitHub and Hugging Face.
+
+72
+00:03:22.009 --> 00:03:26.004
+After that, they go to a chassis manufacturer
+
+73
+00:03:26.004 --> 00:03:30.000
+to pick their empty shell for their new engine,
+
+74
+00:03:30.000 --> 00:03:31.008
+their precious new engine.
+
+75
+00:03:31.008 --> 00:03:34.007
+These chassis are called AI notebooks.
+
+76
+00:03:34.007 --> 00:03:38.006
+Their purpose is to hold and run
+
+77
+00:03:38.006 --> 00:03:41.004
+the generative AI model code.
+
+78
+00:03:41.004 --> 00:03:44.006
+The most widely used one is Google Colab,
+
+79
+00:03:44.006 --> 00:03:47.005
+but there are others like Jupiter Notebooks.
+
+80
+00:03:47.005 --> 00:03:51.003
+And the third person would be my mother, bless her heart.
+
+81
+00:03:51.003 --> 00:03:54.001
+She has absolutely no technical pedigree,
+
+82
+00:03:54.001 --> 00:03:56.006
+nor she's interested in acquiring one.
+
+83
+00:03:56.006 --> 00:04:01.000
+But this doesn't mean she cannot benefit from generative AI.
+
+84
+00:04:01.000 --> 00:04:04.007
+My mother would be buying her already made car.
+
+85
+00:04:04.007 --> 00:04:09.001
+She will have way less control over the outcome of her car,
+
+86
+00:04:09.001 --> 00:04:12.002
+but she will be able to drive, just like the business leader
+
+87
+00:04:12.002 --> 00:04:14.006
+and the creative technologist.
+
+88
+00:04:14.006 --> 00:04:18.000
+People with no technical knowledge can simply subscribe
+
+89
+00:04:18.000 --> 00:04:22.009
+to an online service like OpenAI's ChatGPT or DALL-E,
+
+90
+00:04:22.009 --> 00:04:25.004
+or download Discord and play with Midjourney,
+
+91
+00:04:25.004 --> 00:04:29.004
+or download Lensa AI and Avatar Maker in their smartphone
+
+92
+00:04:29.004 --> 00:04:32.005
+to play with the magic of generative AI.
+
+93
+00:04:32.005 --> 00:04:35.001
+Well, this all depends what you want to do
+
+94
+00:04:35.001 --> 00:04:36.007
+and what you want to build,
+
+95
+00:04:36.007 --> 00:04:39.009
+and how much technical expertise you already have.
+
+96
+00:04:39.009 --> 00:04:43.009
+Now that we have our car, our generative AI model,
+
+97
+00:04:43.009 --> 00:04:46.007
+we can now start creating our own content
+
+98
+00:04:46.007 --> 00:04:48.001
+and go for a drive.
