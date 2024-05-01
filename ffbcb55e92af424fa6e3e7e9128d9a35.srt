@@ -1,0 +1,193 @@
+WEBVTT
+
+1
+00:00:00.006 --> 00:00:02.008
+- I want to round out this course
+
+2
+00:00:02.008 --> 00:00:06.004
+with a controversial statement.
+
+3
+00:00:06.004 --> 00:00:10.009
+The greatest bias in AI is not race,
+
+4
+00:00:10.009 --> 00:00:14.001
+is not ethnicity, nor gender.
+
+5
+00:00:14.001 --> 00:00:17.003
+It is human's inferiority complex.
+
+6
+00:00:17.003 --> 00:00:21.003
+If we see machines as superior to humans,
+
+7
+00:00:21.003 --> 00:00:23.003
+we place them on a pedestal,
+
+8
+00:00:23.003 --> 00:00:24.006
+and if we see humans
+
+9
+00:00:24.006 --> 00:00:27.004
+as incapable fragile beings,
+
+10
+00:00:27.004 --> 00:00:30.006
+we again place AI on a pedestal,
+
+11
+00:00:30.006 --> 00:00:34.006
+but this time with the power of an authority.
+
+12
+00:00:34.006 --> 00:00:39.000
+We should always emphasize the crucial and essential role
+
+13
+00:00:39.000 --> 00:00:44.002
+of human creativity and decision-making in the process.
+
+14
+00:00:44.002 --> 00:00:48.007
+Nowadays, popular headlines suggest that AI is designing,
+
+15
+00:00:48.007 --> 00:00:50.002
+AI is coding,
+
+16
+00:00:50.002 --> 00:00:54.002
+but let's remember, it's humans who wrote the algorithms
+
+17
+00:00:54.002 --> 00:00:57.006
+for AI, and it's humans who conceptualize, curate,
+
+18
+00:00:57.006 --> 00:01:01.007
+and oversee the algorithms to produce the desired outcomes.
+
+19
+00:01:01.007 --> 00:01:04.002
+If we place AI and technology at the center
+
+20
+00:01:04.002 --> 00:01:05.008
+of our workflow in storytelling,
+
+21
+00:01:05.008 --> 00:01:09.005
+we risk dehumanizing ourselves and contributing
+
+22
+00:01:09.005 --> 00:01:13.004
+to a future where human jobs may really be eliminated.
+
+23
+00:01:13.004 --> 00:01:16.004
+Instead, we should focus on highlighting
+
+24
+00:01:16.004 --> 00:01:18.006
+the central role that humans play
+
+25
+00:01:18.006 --> 00:01:22.001
+in the creation and the use of AI.
+
+26
+00:01:22.001 --> 00:01:23.009
+I know even though sentences
+
+27
+00:01:23.009 --> 00:01:25.008
+such as like, "AI made this art,
+
+28
+00:01:25.008 --> 00:01:27.003
+and, "AI is advancing quickly,
+
+29
+00:01:27.003 --> 00:01:30.005
+AI is so cool," are common in the collective,
+
+30
+00:01:30.005 --> 00:01:32.003
+we should strive to correct ourselves
+
+31
+00:01:32.003 --> 00:01:36.005
+in centering our actions and self-expression around humans.
+
+32
+00:01:36.005 --> 00:01:39.000
+It is humans that are making art
+
+33
+00:01:39.000 --> 00:01:41.009
+by using generative AI-powered tools, and it is,
+
+34
+00:01:41.009 --> 00:01:45.008
+again, humans that are working in tandem with each other
+
+35
+00:01:45.008 --> 00:01:49.008
+to advance several different human-benefiting technologies,
+
+36
+00:01:49.008 --> 00:01:52.005
+including generative AI.
+
+37
+00:01:52.005 --> 00:01:55.005
+By modeling our tools after ourselves,
+
+38
+00:01:55.005 --> 00:01:59.000
+we are inevitably transferring our own judgments,
+
+39
+00:01:59.000 --> 00:02:00.005
+our own insecurities,
+
+40
+00:02:00.005 --> 00:02:04.002
+and our own limitations onto this technology.
+
+41
+00:02:04.002 --> 00:02:06.000
+So it is essential
+
+42
+00:02:06.000 --> 00:02:09.006
+that we work to overcome our own insecurities
+
+43
+00:02:09.006 --> 00:02:12.007
+and approach AI as a tool that can augment
+
+44
+00:02:12.007 --> 00:02:18.002
+and empower us, rather than compete or replace us.
+
+45
+00:02:18.002 --> 00:02:22.007
+By doing so, we can create AI systems that contribute
+
+46
+00:02:22.007 --> 00:02:25.003
+to the elation of humanity,
+
+47
+00:02:25.003 --> 00:02:28.000
+assist us with creative productivity,
+
+48
+00:02:28.000 --> 00:02:33.000
+and help us achieve our greatest potential as a species.
